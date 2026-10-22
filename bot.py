@@ -9,7 +9,7 @@ import random
 # ==========================================
 # KONFIGURACJA BOTA
 # ==========================================
-TOKEN = 'MTU2Mjg0NjYwNzA4MTIwOTg2OA.G58J96.V53gN9JWrTi7KLJUQ2IqF9Yw2LH3MeiM52k8QE'  # Wklej swój Token z Discord Developer Portal
+TOKEN = 'MTU2Mjg0NjYwNzA4MTIwOTg2OA.GxNAwM.uTe8re6CTE8lza8JcGw7OrelwzzRkc7weLDmhQ'  # Wklej swój Token z Discord Developer Portal
 IMAGE_URL = 'https://cdn.discordapp.com/attachments/1550977404665860100/1562853528047980544/Zrzut_ekranu_2026-10-22_170144.png?ex=6adb8045&is=6ada2ec5&hm=d922a1c66e31f6a60cb4e9065263db897503294ced7b14b956d5e33f1db64e10&'  # Link do Twojego obrazka z kaczką[cite: 3]
 
 # LISTA ID RÓL (wpisz po przecinku ID wszystkich ról, które mają widzieć tickety):
