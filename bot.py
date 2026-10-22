@@ -193,4 +193,4 @@ async def on_message(message: discord.Message):
     if message.author.bot:
         return
 
-    if "http://" in message.content or "
+    if "http://" in message.content or "https://" in message.content:
